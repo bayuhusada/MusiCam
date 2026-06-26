@@ -13,3 +13,4 @@ Thumbs.db
 *.db
 *.pyo
 .pytest_cache/
+.prd.md
