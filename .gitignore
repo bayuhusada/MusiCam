@@ -13,4 +13,7 @@ Thumbs.db
 *.db
 *.pyo
 .pytest_cache/
-.prd.md
+prd.md
+test_stream.py
+test_backend.ps1
+test_yt_stream.py
